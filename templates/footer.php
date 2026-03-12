@@ -1,5 +1,5 @@
 <footer>
     <p>
-        &copy; <?= date('Y') ?>. All rights reserved by Aj.M.
+        &copy; <?= date('Y') ?>. All rights reserved by Mintkook^^.
     </p>
 </footer>

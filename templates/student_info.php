@@ -13,7 +13,7 @@
 
 <?php include 'header.php' ?>
 
-<main class="max-w-5xl mx-auto p-6 space-y-6">
+<main class="flex-grow max-w-5xl mx-auto p-6 space-y-6">
 
     <!-- ข้อมูลนักเรียน -->
     <div class="bg-yellow-50 shadow-xl rounded-2xl p-6 border border-yellow-200">
@@ -117,6 +117,6 @@
     </div>
 
 </main>
-
+<?php include 'footer.php' ?>
 </body>
 </html>
